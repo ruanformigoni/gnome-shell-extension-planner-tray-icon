@@ -1,0 +1,15 @@
+.geary-on-icon {
+    background-image: url("img/geary-on.svg");
+    background-size: 20px;
+    width: 20px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.geary-off-icon {
+    background-image: url("img/geary-off.svg");
+    background-size: 20px;
+    width: 20px;
+    padding: 5px;
+    border-radius: 20px;
+}
